@@ -1,0 +1,4 @@
+professor_id,name,email,rank,course_ids
+PROF_20251118022607_LDHV,Dr. Michael Johnson,michael@mycsu.edu,Senior Professor,"DATA200,DATA201"
+PROF_20251118022607_HD7D,Dr. Sarah Williams,sarah@mycsu.edu,Associate Professor,DATA202
+PROF_20251118022607_K6E2,Dr. Robert Chen,robert@mycsu.edu,Assistant Professor,DATA203

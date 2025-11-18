@@ -1,0 +1,5 @@
+course_id,course_name,credits,description
+DATA200,Data Structures and Algorithms,3,Advanced data structures with Python implementation
+DATA201,Machine Learning Fundamentals,3,Introduction to ML concepts and techniques
+DATA202,Database Systems,3,Relational and NoSQL database design
+DATA203,Big Data Analytics,3,Processing and analyzing large datasets

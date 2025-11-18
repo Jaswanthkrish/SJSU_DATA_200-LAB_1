@@ -1,0 +1,8 @@
+student_id,first_name,last_name,email,course_ids,grades,marks
+STU_20251118022607_HW5D,Edward,Norton,edward.norton@student.edu,"DATA200,DATA201","B,C","88,75"
+STU_20251118022607_JGW3,Fiona,Apple,fiona.apple@student.edu,"DATA200,DATA201","C,B","76,89"
+STU_20251118022607_SL75,Alicia,Cooper,alice.cooper@student.edu,"DATA200,DATA201","A,C","95,71"
+STU_20251118022607_S14X,Bob,Martin,bob.martin@student.edu,"DATA200,DATA201","C,A","78,92"
+STU_20251118022607_LQ96,George,Miller,george.miller@student.edu,DATA200,A,90
+STU_20251118022607_HEFU,Diana,Prince,diana.prince@student.edu,"DATA200,DATA201","A,B","92,88"
+STU_20251118022607_N712,Charlie,Brown,charlie.brown@student.edu,"DATA200,DATA201","B,A","85,100"
